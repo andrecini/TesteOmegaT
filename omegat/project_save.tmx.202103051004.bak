@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="PT-BR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Testagem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130404Z" creationid="admin" creationdate="20210305T130404Z">
+        <seg>"Testagem"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Testando</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130356Z" creationid="admin" creationdate="20210305T130120Z">
+        <seg>Testing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Teste documento</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130344Z" creationid="admin" creationdate="20210305T123835Z">
+        <seg>Document Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>testandoando</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130415Z" creationid="admin" creationdate="20210305T130415Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

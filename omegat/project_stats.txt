@@ -1,0 +1,14 @@
+3/8/21 9:39 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     147	 2232	                      11755	                        13859	     1	
+Remaining:       	       0	    0	                          0	                            0	     0	
+Unique:          	     138	 2222	                      11708	                        13800	     1	
+Unique Remaining:	       0	    0	                          0	                            0	     0	
+
+
+Individual File Statistics:
+
+File Name             	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+TesteOmegaT-pt-BR.docx	           147	                 0	            138	                        0	       2232	              0	        2222	                     0	                            11755	                                    0	                             11708	                                           0	                              13859	                                      0	                               13800	                                             0	

@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="PT-BR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>(&lt;t0/&gt;apenas um cenário cobre 100%)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165906Z" creationid="admin" creationdate="20210305T165906Z">
+        <seg>(&lt;t0/&gt;only one scenario covers 100%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>(implementação 2)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165529Z" creationid="admin" creationdate="20210305T165529Z">
+        <seg>(implementation 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T150003Z" creationid="admin" creationdate="20210305T150003Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T150007Z" creationid="admin" creationdate="20210305T150007Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.1 &lt;t0/&gt;Seleção&lt;t1/&gt; – if, case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160402Z" creationid="admin" creationdate="20210305T160402Z">
+        <seg>2.1&lt;t0/&gt;Selection&lt;t1/&gt; – if, case</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160406Z" creationid="admin" creationdate="20210305T160406Z">
+        <seg>2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.3 &lt;t0/&gt;Operadores&lt;t1/&gt; – “&amp;&amp;”, “||”, “?”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160601Z" creationid="admin" creationdate="20210305T160456Z">
+        <seg>&lt;t0/&gt;Operators&lt;t1/&gt; – “&amp;&amp;”, “||”, “?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.4 &lt;t0/&gt;Exceções&lt;t1/&gt; – catch, throw e throws</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160555Z" creationid="admin" creationdate="20210305T160555Z">
+        <seg>&lt;t0/&gt;Exceptions&lt;t1/&gt; – catch, throw e throws</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>2.5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160609Z" creationid="admin" creationdate="20210305T160609Z">
+        <seg>2.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161605Z" creationid="admin" creationdate="20210305T161605Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (&lt;t2/&gt;premium&lt;t3/&gt;) {</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161934Z" creationid="admin" creationdate="20210305T161934Z">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (&lt;t2/&gt;premium&lt;t3/&gt;) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (casquinha) {</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162046Z" creationid="admin" creationdate="20210305T162046Z">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (coverings) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (coberturas &gt; 1){</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162235Z" creationid="admin" creationdate="20210305T162235Z">
+        <seg>&lt;t0/&gt;if&lt;t1/&gt; (coverings &gt; 1){</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;int&lt;t1/&gt; &lt;t2/&gt;preco&lt;t3/&gt; = 0;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161927Z" creationid="admin" creationdate="20210305T161927Z">
+        <seg>&lt;t0/&gt;int&lt;t1/&gt; &lt;t2/&gt;price&lt;t3/&gt; = 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;preco&lt;t1/&gt; = 15;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161955Z" creationid="admin" creationdate="20210305T161955Z">
+        <seg>} &lt;t0/&gt;else&lt;t1/&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;preco&lt;t1/&gt; = 20;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161945Z" creationid="admin" creationdate="20210305T161945Z">
+        <seg>&lt;t0/&gt;price&lt;t1/&gt; = 20;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;preco&lt;t1/&gt; = &lt;t2/&gt;preco&lt;t3/&gt; + 1;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162210Z" creationid="admin" creationdate="20210305T162210Z">
+        <seg>&lt;t0/&gt;price&lt;t1/&gt; = &lt;t2/&gt;price&lt;t3/&gt; +1;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;preco&lt;t1/&gt; = &lt;t2/&gt;preco&lt;t3/&gt; + 2;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162154Z" creationid="admin" creationdate="20210305T162154Z">
+        <seg>&lt;t0/&gt;price&lt;t1/&gt; = &lt;t2/&gt;price&lt;t3/&gt; +2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;t0/&gt;return&lt;t1/&gt; &lt;t2/&gt;preco&lt;t3/&gt;;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162250Z" creationid="admin" creationdate="20210305T162250Z">
+        <seg>&lt;t0/&gt;return&lt;t1/&gt; &lt;t2/&gt;prices&lt;t3/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A Figura 13 mostra a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; sobreposta com os quatro caminhos possíveis (A: vermelho, B: verde, C: amarelo e D: azul).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170217Z" creationid="admin" creationdate="20210305T170217Z">
+        <seg>Figure 13 shows the cyclomatic &lt;t0/&gt;complexity &lt;t1/&gt;overlaid with the four possible paths (A: red, B: green, C: yellow and D: blue).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A Figura 4 mostra um exemplo em Java desta contagem feita pelo &lt;t0/&gt;SonarQube&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160901Z" creationid="admin" creationdate="20210305T160901Z">
+        <seg>Figure 4 shows a Java example of this count made by &lt;t0/&gt;SonarQube&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A Figura 8 mostra uma &lt;t4/&gt;implementação&lt;t5/&gt; ainda mais simples onde o caminho principal fica mais explícito.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165435Z" creationid="admin" creationdate="20210305T165435Z">
+        <seg>Figure 8 shows an even simpler&lt;t4/&gt;implementation&lt;t5/&gt; where the main path becomes more explicit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A cobertura pode ser simples (apenas uma) custando R$1 ou especial (duas coberturas ou mais) custando R$2.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161624Z" creationid="admin" creationdate="20210305T161624Z">
+        <seg>The coverage can be simple (just one) costing R $ 1 or special (two coverages or more) costing R$ 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A implementação do requisito de cálculo de preço do sorvete com &lt;t0/&gt;If&lt;t1/&gt;/&lt;t2/&gt;Else&lt;t3/&gt; gerou a necessidade de dois casos de teste.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165249Z" creationid="admin" creationdate="20210305T165249Z">
+        <seg>The implementation of the ice cream price requirement with &lt;t0/&gt;If&lt;t1/&gt;&lt;t2/&gt; Else &lt;t3/&gt;generated the need for two test cases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A partir destas três informações o algoritmo calcula o preço do sorvete.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162329Z" creationid="admin" creationdate="20210305T162329Z">
+        <seg>From these three pieces of information, the algorithm calculates the price of the ice cream.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Adicione mais um ponto para cada elemento abaixo:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160330Z" creationid="admin" creationdate="20210305T160330Z">
+        <seg>Add one more point for each element below:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Agora a cobertura de testes requer um pouco mais de cenários.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170308Z" creationid="admin" creationdate="20210305T170308Z">
+        <seg>Testing coverage now requires a little more scenarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Ao aplicar o cálculo por palavra-chave sobre o algoritmo chegamos a um valor de complexidade &lt;t2/&gt;ciclomática&lt;t3/&gt; igual a &lt;t4/&gt;4&lt;t5/&gt; (um ponto pelo método e mais um para cada um dos três “&lt;t6/&gt;Ifs&lt;t7/&gt;”).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163400Z" creationid="admin" creationdate="20210305T163400Z">
+        <seg>When applying the calculation by keyword on the algorithm we arrive at a value of &lt;t2/&gt;cyclomatic &lt;t3/&gt;complexity equal to&lt;t4/&gt;4&lt;t5/&gt; (one point for the method and one more for each of the three “&lt;t6/&gt;Ifs&lt;t7/&gt;”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Apesar de oito combinações, já sabemos que o total de caminhos possível (NPATH) é diferente da complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163324Z" creationid="admin" creationdate="20210305T163324Z">
+        <seg>Despite eight combinations, we already know that the total number of possible paths (NPATH) is different from the &lt;t0/&gt;cyclomatic &lt;t1/&gt;complexity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>As oito combinações correspondem aos oito caminhos possíveis do algoritmo de cálculo de preço.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162412Z" creationid="admin" creationdate="20210305T162412Z">
+        <seg>The eight combinations correspond to the eight possible paths of the price calculation algorithm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Assim, a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; cresce na medida em que instruções de decisão são inseridas no código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145018Z" creationid="admin" creationdate="20210305T145018Z">
+        <seg>Thus, the &lt;t0/&gt;cyclomatic&lt;t1/&gt; complexity increases as decision instructions are inserted into the code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Assim, como visto nos exemplos, eventualmente pode ser necessário um pouco mais ou um pouco menos, dependendo da &lt;t12/&gt;implementação&lt;t13/&gt;, mas a quantidade de caminhos linearmente independentes é um bom palpite para a quantidade e para os pontos de passagem dos cenários de teste.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170717Z" creationid="admin" creationdate="20210305T170717Z">
+        <seg>So, as seen in the examples, it may be necessary a little more or a little less, depending on the &lt;t12/&gt;implementation&lt;t13/&gt;, but the number of linearly independent paths is a good guess for the quantity and the points of passing of the test scenarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Através desta fórmula é possível que sejam calculados valores de complexidade &lt;t8/&gt;ciclomática&lt;t9/&gt; sem a necessidade de desenhar o grafo de fluxo de controle, apenas identificando quais palavras reservadas das linguagens correspondem a decisões ou retornos antes do fim do programa, método, rotina ou função.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145814Z" creationid="admin" creationdate="20210305T145814Z">
+        <seg>Through this formula it is possible to calculate values ​​of &lt;t8/&gt;cyclomatic&lt;t9/&gt; complexity without the need to draw the control flow graph, just identifying which reserved words of the languages ​​correspond to decisions or returns before the end of the program, method, routine or function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Caminho Linearmente Independente</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143217Z" creationid="admin" creationdate="20210305T143217Z">
+        <seg>Linearly Independent Path</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Caminho Linearmente Independente é qualquer caminho do programa que introduz pelo menos um novo conjunto de comandos de processamento ou uma &lt;t0/&gt;nova condição&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143320Z" creationid="admin" creationdate="20210305T143320Z">
+        <seg>Linearly Independent Path is any program path that introduces at least one new set of processing commands or a &lt;t0/&gt;new condition&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Com base nessa forma de cálculo, qualquer nova decisão introduzida no algoritmo vai fazer a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; aumentar em &lt;t2/&gt;1&lt;t3/&gt; ponto, pois adiciona um nó com duas arestas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145547Z" creationid="admin" creationdate="20210305T145547Z">
+        <seg>Based on this form of calculation, any new decision introduced in the algorithm will increase the &lt;t0/&gt;cyclomatic&lt;t1/&gt; complexity by &lt;t2/&gt;1&lt;t3/&gt; point, as it adds a node with two edges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Com o desenho feito desta forma, basta subtrair o número de arestas pelo número de nós do grafo resultante e somar um.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144938Z" creationid="admin" creationdate="20210305T144938Z">
+        <seg>With the drawing done in this way, just subtract the number of edges by the number of nodes in the resulting graph and add one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Com um único cenário de teste (o sorvete mais caro) todas as linhas são percorridas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165753Z" creationid="admin" creationdate="20210305T165753Z">
+        <seg>With a single test scenario (the most expensive ice cream) all lines are covered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Como foi visto nas três &lt;t4/&gt;implementações&lt;t5/&gt; diferentes do problema da sorveteria, não é factível elaborar um caso de testes para cada possibilidade de execução de um algoritmo, pois mesmo implementações simples gerarão testes de unidade muito mais complexos que elas mesmas e acabarão sendo abandonados com o passar do tempo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170600Z" creationid="admin" creationdate="20210305T170600Z">
+        <seg>As seen in the three different&lt;t4/&gt; implementations &lt;t5/&gt;of the ice cream parlor problem, it is not feasible to develop a test case for each possibility of executing an algorithm, because even simple implementations will generate unit tests that are much more complex than they are. and will end up being abandoned over time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Como você já deve ter percebido, não será possível fazer um desenho do grafo representado pelo algoritmo toda vez que precisarmos calcular complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; de algum código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145912Z" creationid="admin" creationdate="20210305T145912Z">
+        <seg>As you may have noticed, it will not be possible to draw a graph of the graph represented by the algorithm every time we need to calculate complexity &lt;t0/&gt;cyclomatic&lt;t1/&gt; of some code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Complexidade &lt;t0/&gt;Ciclomática</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T142729Z" creationid="admin" creationdate="20210305T142729Z">
+        <seg>Cyclomatic &lt;t0/&gt;Complexity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; é uma medida de software, elaborada em 1976 por Thomas &lt;t2/&gt;McCabe&lt;t3/&gt; &lt;t4/&gt;[1]&lt;t5/&gt; para medir a complexidade de um programa (classe, método, rotina etc).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T142838Z" creationid="admin" creationdate="20210305T142838Z">
+        <seg>Cyclomatic &lt;t0/&gt;complexity&lt;t1/&gt; is a software measure, developed in 1976 by Thomas &lt;t2/&gt;McCabe&lt;t3/&gt; &lt;t4/&gt;[1]&lt;t5/&gt; to measure the complexity of a program (class, method, routine, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Conclusão</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170520Z" creationid="admin" creationdate="20210305T170520Z">
+        <seg>Conclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Conforme apresentado, a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt;, cujo objetivo inicial era medir a complexidade de programas, apresenta forte relação com a &lt;t2/&gt;testabilidade&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170538Z" creationid="admin" creationdate="20210305T170538Z">
+        <seg>As shown, the &lt;t0/&gt;cyclomatic&lt;t1/&gt; complexity, whose initial objective was to measure the complexity of programs, has a strong relationship with &lt;t2/&gt;testability&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Cálculo pelo Grafo de Fluxo de Controle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144624Z" creationid="admin" creationdate="20210305T144624Z">
+        <seg>Control Flow Graph Calculation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Cálculo por Palavra Reservada</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145841Z" creationid="admin" creationdate="20210305T145841Z">
+        <seg>Calculation by Reserved Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Da mesma forma, cresce a necessidade de casos de teste para cobrir todo este código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145403Z" creationid="admin" creationdate="20210305T145403Z">
+        <seg>Likewise, there is a growing need for test cases to cover all of this code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Dessa forma apenas dois cenários acabaram passando por todas as suas linhas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163933Z" creationid="admin" creationdate="20210305T163933Z">
+        <seg>Thus, only two scenarios ended up passing through all its lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Dessa forma, &lt;t2/&gt;todas os&lt;t3/&gt; nós foram percorridos ao menos uma vez e verificamos graficamente porque a complexidade &lt;t4/&gt;ciclomática&lt;t5/&gt; é 4.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163628Z" creationid="admin" creationdate="20210305T163628Z">
+        <seg>Thus, &lt;t2/&gt;all&lt;t3/&gt; nodes have been traversed at least once and we verify graphically because the &lt;t4/&gt;cyclomatic&lt;t5/&gt; complexity is 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Dessa forma, a fórmula de cálculo da complexidade &lt;t4/&gt;ciclomática&lt;t5/&gt; pode ser simplificada para “&lt;t6/&gt;π – s + 2&lt;t7/&gt;” onde “π” é a quantidade de pontos de decisão e “s” é a quantidade de pontos de saída.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145737Z" creationid="admin" creationdate="20210305T145737Z">
+        <seg>In this way, the formula for calculating &lt;t4/&gt;cyclomatic&lt;t5/&gt; complexity can be simplified to “&lt;t6/&gt;π - s + 2&lt;t7/&gt;” where “π” is the number of decision points and “s” is the number of exit points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Do ponto de vista prático e da qualidade de software, o valor de complexidade &lt;t14/&gt;ciclomática&lt;t15/&gt; pode ser usado como medida de qualidade de um código, assim como outras medidas, indicando sua complexidade, mas especialmente sua dificuldade de &lt;t16/&gt;implementar&lt;t17/&gt; testes de unidade.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170744Z" creationid="admin" creationdate="20210305T170744Z">
+        <seg>From a practical and software quality point of view, the &lt;t14/&gt;cyclomatic &lt;t15/&gt;complexity value can be used as a measure of the quality of a code, as well as other measures, indicating its complexity, but especially its difficulty of &lt;t16/&gt;implement &lt;t17/&gt;unit tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Em termos mais atuais, pode-se dizer que ela indica a dificuldade de se construir testes de unidade em um determinado código uma vez que ela mede a &lt;t6/&gt;quantidade de caminhos linearmente independentes&lt;t7/&gt; neste código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143002Z" creationid="admin" creationdate="20210305T143002Z">
+        <seg>In more current terms, it can be said that it indicates the difficulty of building unit tests on a given code since it measures &lt;t6/&gt;the number of linearly independent paths&lt;t7/&gt; in this code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Em termos mais simples, ao escrever um teste de unidade para passar por todos os caminhos linearmente independentes você provavelmente terá coberto todas as linhas deste código, estabelecendo uma cobertura de 100%.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143547Z" creationid="admin" creationdate="20210305T143547Z">
+        <seg>In simpler terms, when writing a unit test to go through all linearly independent paths, you will probably have covered all the lines of this code, establishing 100% coverage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Em uma terceira &lt;t0/&gt;implementação&lt;t1/&gt; onde o requisito mudou um pouco os “&lt;t2/&gt;IFs&lt;t3/&gt;” estarão aninhados, tornando o código um pouco mais difícil de ler.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165945Z" creationid="admin" creationdate="20210305T165945Z">
+        <seg>In a third &lt;t0/&gt;implementation &lt;t1/&gt;where the requirement has changed slightly the “&lt;t2/&gt;IFs &lt;t3/&gt;” will be nested, making the code a little more difficult to read.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Esta nova &lt;t0/&gt;implementação&lt;t1/&gt; gerou uma situação onde a quantidade de cenários de teste para cobertura de todas as linhas baixou para um.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165723Z" creationid="admin" creationdate="20210305T165723Z">
+        <seg>This new &lt;t0/&gt;implementation &lt;t1/&gt;generated a situation where the number of test scenarios for covering all lines dropped to one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Este cálculo simplificado pode ser descrito da seguinte forma:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145958Z" creationid="admin" creationdate="20210305T145958Z">
+        <seg>This simplified calculation can be described as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Este valor pode ser visualizado graficamente na Figura 6.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163448Z" creationid="admin" creationdate="20210305T163448Z">
+        <seg>This value can be viewed graphically in Figure 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Exemplo da Sorveteria – Implementação &lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T164027Z" creationid="admin" creationdate="20210305T164027Z">
+        <seg>Exemplo da Sorveteria – Implementação &lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Exemplo da Sorveteria – Requisito Novo e Implementação &lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165913Z" creationid="admin" creationdate="20210305T165913Z">
+        <seg>Ice Cream Shop Example - New Requirement and Implementation &lt;t0/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Exemplo da Sorveteria – Requisito e Implementação &lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161443Z" creationid="admin" creationdate="20210305T161443Z">
+        <seg>Ice Cream Shop Example - Requirement and Implementation &lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 10: Quatro caminhos linearmente independentes da implementação &lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165705Z" creationid="admin" creationdate="20210305T165705Z">
+        <seg>Figura 10: Quatro caminhos linearmente independentes da implementação &lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 11: Cenário de teste para testar a implementação 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165828Z" creationid="admin" creationdate="20210305T165828Z">
+        <seg>Figure 11: Test scenario for testing implementation 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 12: Implementação &lt;t0/&gt;3&lt;t1/&gt; com &lt;t2/&gt;IFs&lt;t3/&gt; aninhados</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170156Z" creationid="admin" creationdate="20210305T170156Z">
+        <seg>Figure 12: Implementation &lt;t0/&gt;3&lt;t1/&gt; with nested&lt;t2/&gt; IFs &lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 13: Caminhos e complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; da implementação &lt;t2/&gt;3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170249Z" creationid="admin" creationdate="20210305T170249Z">
+        <seg>Figure 13: Paths and complexity &lt;t0/&gt;cyclomatic&lt;t1/&gt; of the implementation &lt;t2/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 14: Dois cenários de teste cobrindo 77,6% das linhas da implementação &lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170341Z" creationid="admin" creationdate="20210305T170341Z">
+        <seg>Figure 14: Two test scenarios covering 77.6% of the implementation lines &lt;t0/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 15: Quatro cenários de teste cobrindo 100% das linhas da implementação &lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170424Z" creationid="admin" creationdate="20210305T170424Z">
+        <seg>Figure 15: Four test scenarios covering 100% of the implementation lines &lt;t0/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 1: Algoritmo de exemplo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143843Z" creationid="admin" creationdate="20210305T143843Z">
+        <seg>Example algorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 2: Três caminhos independentes e um quarto repetindo instruções</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144200Z" creationid="admin" creationdate="20210305T144200Z">
+        <seg>Figure 2: Three independent paths and a fourth repeating instructions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 3: Grafo com nós e arestas</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145413Z" creationid="admin" creationdate="20210305T145413Z">
+        <seg>Graph with knots and edges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 4: Exemplo de contagem em código Java feito pelo Sonar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161059Z" creationid="admin" creationdate="20210305T161059Z">
+        <seg>Figure 4: Example of Java code counting done by Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 5: Oito combinações possíveis do sorvete e seu preço final</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162402Z" creationid="admin" creationdate="20210305T162402Z">
+        <seg>Figure 5: Eight possible combinations of ice cream and its final price</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 6: Quatro caminhos linearmente independentes do algoritmo da sorveteria</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163455Z" creationid="admin" creationdate="20210305T163455Z">
+        <seg>Figure 6: Four paths linearly independent of the ice cream shop algorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 7: Dois cenários de teste cobrindo 100% das linhas de código</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163953Z" creationid="admin" creationdate="20210305T163953Z">
+        <seg>Figure 7: Two test scenarios covering 100% of the lines of code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 8: Implementação alternativa com caminho principal e sem “&lt;t0/&gt;elses&lt;t1/&gt;”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165505Z" creationid="admin" creationdate="20210305T165505Z">
+        <seg>Figure 8: Alternative implementation with main path and without “&lt;t0/&gt;elses&lt;t1/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 9: Oito caminhos possíveis para implementação &lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165623Z" creationid="admin" creationdate="20210305T165623Z">
+        <seg>Figure 9: Eight possible paths for implementation &lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Fluxo&lt;t0/&gt; – &lt;t1/&gt;return&lt;t2/&gt; que não seja o último</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160654Z" creationid="admin" creationdate="20210305T160654Z">
+        <seg>Flow &lt;t0/&gt;-&lt;t1/&gt; return &lt;t2/&gt;that is not the last</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Há dois tipos de sorvete: Comum, cujo preço é R$15 e Premium cujo preço é R$&lt;t0/&gt;20</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161542Z" creationid="admin" creationdate="20210305T161542Z">
+        <seg>There are two types of ice cream: Common, whose price is R $ 15 and Premium whose price is R$ &lt;t0/&gt;20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Imagine uma sorveteria que define o preço de seus sorvetes da seguinte forma:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161507Z" creationid="admin" creationdate="20210305T161507Z">
+        <seg>Imagine an ice cream shop that sets the price of your ice cream as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Isso não significa que esta &lt;t2/&gt;implementação&lt;t3/&gt; só precisa de um cenário em seu teste de unidade, apenas que com apenas um (o certo) todas as linhas serão cobertas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165817Z" creationid="admin" creationdate="20210305T165817Z">
+        <seg>This does not mean that this&lt;t2/&gt; implementation &lt;t3/&gt;nly needs one scenario in its unit test, only that with just one (the right one) all lines will be covered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Isso não é a mesma coisa que cobrir todas as possibilidades de execução (NPATH) e sim passar por todas as linhas ao menos uma vez.&lt;t0/&gt; &lt;t1/&gt;O exemplo da figura 1 mostra, graficamente, um algoritmo onde as letras representam uma instrução simples e os números representam um “IF” (decisão).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143620Z" creationid="admin" creationdate="20210305T143620Z">
+        <seg>This is not the same thing as covering all the possibilities of execution (NPATH), but going through all the lines at least once.&lt;t0/&gt; &lt;t1/&gt; The example in figure 1 shows, graphically, an algorithm where the letters represent a simple instruction and the numbers represent an “IF” (decision).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Isso se deve a particularidade de como o requisito foi &lt;t0/&gt;implementado&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163903Z" creationid="admin" creationdate="20210305T163903Z">
+        <seg>This is due to the particularity of how the requirement was &lt;t0/&gt;implemented&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Loops – for, while, do-while, break e continue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160415Z" creationid="admin" creationdate="20210305T160415Z">
+        <seg>Loops – for, while, do-while, break e continue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Mais &lt;t2/&gt;a frente veremos&lt;t3/&gt; que a complexidade &lt;t4/&gt;ciclomática&lt;t5/&gt; é um indicador bem melhor para sugerir o número de casos de teste necessários em um teste de unidade.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163300Z" creationid="admin" creationdate="20210305T163300Z">
+        <seg>Later on &lt;t2/&gt;we will see&lt;t3/&gt;that the cyclomatic &lt;t4/&gt;complexity &lt;t5/&gt;is a much better indicator for suggesting the number of test cases needed in a unit test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Mais a frente o algoritmo será alterado sem alterar seu resultado e veremos que a quantidade de casos de teste necessário vai mudar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163944Z" creationid="admin" creationdate="20210305T163944Z">
+        <seg>Later on, the algorithm will be changed without changing its result and we will see that the number of test cases needed will change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Medidas mais atuais como a &lt;t8/&gt;complexidade cognitiva&lt;t9/&gt; podem indicar melhor a dificuldade de leitura e entendimento de um código, mas a complexidade &lt;t10/&gt;ciclomática&lt;t11/&gt; ainda mantém forte relação com a &lt;t12/&gt;testabilidade&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143139Z" creationid="admin" creationdate="20210305T143139Z">
+        <seg>More current measures such as &lt;t8/&gt;cognitive complexity&lt;t9/&gt; may better indicate the difficulty of reading and understanding a code, but &lt;t10/&gt;cyclomatic&lt;t11/&gt; complexity still has a strong relationship with &lt;t12/&gt;testability&lt;t13/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Na Figura 12 pode ser vista esta nova &lt;t12/&gt;implementação&lt;t13/&gt; e seu grafo correspondente.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170133Z" creationid="admin" creationdate="20210305T170133Z">
+        <seg>In Figure 12, this new &lt;t12/&gt;implementation &lt;t13/&gt;and its corresponding graph can be seen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Na Figura 14 pode-se ver que os mesmos dois cenários (mais barato 17 e mais caro 24) que cobriam 100% das linhas na implementação &lt;t0/&gt;1&lt;t1/&gt; agora cobrem somente 77,6% das linhas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170319Z" creationid="admin" creationdate="20210305T170319Z">
+        <seg>In Figure 14, it can be seen that the same two scenarios (cheapest 17 and most expensive 24) that covered 100% of the lines in the &lt;t0/&gt;1 &lt;t1/&gt;implementation now cover only 77.6% of the lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Na Figura 2, o mesmo algoritmo é desmembrado em seus caminhos possíveis (NPATH) que são &lt;t0/&gt;4&lt;t1/&gt;, porém somente os três primeiros são linearmente independentes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144116Z" creationid="admin" creationdate="20210305T144028Z">
+        <seg>In Figure 2, the same algorithm is broken down into its possible paths (NPATH) which are &lt;t0/&gt;4&lt;t1/&gt;, but only the first three are linearly independent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Na Figura 9 é possível ver que nesta implementação continuam existindo as oito possibilidades de sorvete e na Figura 10 que a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; continua &lt;t2/&gt;4&lt;t3/&gt; (um do método mais um para cada “IF” – os “&lt;t4/&gt;elses&lt;t5/&gt;” não interferem).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165602Z" creationid="admin" creationdate="20210305T165602Z">
+        <seg>In Figure 9 it is possible to see that in this implementation the eight ice cream possibilities still exist and in Figure 10 that the cyclomatic &lt;t0/&gt;complexity&lt;t1/&gt; continues&lt;t2/&gt;4&lt;t3/&gt; (one of the method plus one for each “IF” - the “&lt;t4/&gt;elses&lt;t5/&gt;” do not interfere).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Neste cenário somente os sorvetes &lt;t4/&gt;premium&lt;t5/&gt; têm casquinha e somente as casquinhas têm mais de uma cobertura.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170014Z" creationid="admin" creationdate="20210305T170014Z">
+        <seg>In this scenario, only the &lt;t4/&gt;premium &lt;t5/&gt;ice creams have a cone and only the cones have more than one icing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No caminho C foi destacada em amarelo a instrução onde a execução passa pela instrução do preço da casquinha e o caminho D mostra a passagem (em azul) pela instrução do preço mais caro da cobertura dupla.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163601Z" creationid="admin" creationdate="20210305T163601Z">
+        <seg>In path C, the instruction where the execution goes through the instruction of the cone price was highlighted in yellow and path D shows the passage (in blue) for the instruction of the most expensive price of the double roof.
+&lt;segment 0104&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No entanto, a complexidade &lt;t6/&gt;ciclomática&lt;t7/&gt; irá para &lt;t8/&gt;4&lt;t9/&gt;, pois será adicionada mais um nó (bolinha) e duas arestas (setas).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144552Z" creationid="admin" creationdate="20210305T144552Z">
+        <seg>However, the &lt;t6/&gt;cyclomatic&lt;t7/&gt; complexity will go to &lt;t8/&gt;4&lt;t9/&gt;, as another node (ball) and two edges (arrows) will be added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No entanto, não é difícil perceber o que acontecerá com este teste se mais “&lt;t0/&gt;IFs&lt;t1/&gt;” forem adicionados.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163219Z" creationid="admin" creationdate="20210305T163219Z">
+        <seg>However, it is not difficult to see what will happen with this test if more “&lt;t0/&gt;IFs&lt;t1/&gt;” are added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No exemplo acima, apesar de haver &lt;t0/&gt;4&lt;t1/&gt; caminhos possíveis (NPATH), podemos dizer que a complexidade &lt;t2/&gt;ciclomática&lt;t3/&gt; do algoritmo representado graficamente é 3, ou seja, é igual ao número de caminhos linearmente independentes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144245Z" creationid="admin" creationdate="20210305T144245Z">
+        <seg>In the example above, although there are &lt;t0/&gt;4&lt;t1/&gt; possible paths (NPATH), we can say that the &lt;t2/&gt;cyclomatic&lt;t3/&gt; complexity of the graphically represented algorithm is 3, that is, it is equal to the number of linearly independent paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No exemplo em questão, o limite de complexidade &lt;t4/&gt;ciclomática&lt;t5/&gt; foi baixado para &lt;t6/&gt;3&lt;t7/&gt; para que o Sonar criasse uma &lt;t8/&gt;Issue&lt;t9/&gt; e a visualização fosse possível desta forma, mas ele vem calibrado com um limite de 10 para esta medida – veja em [Controle de Complexidade].</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161046Z" creationid="admin" creationdate="20210305T161046Z">
+        <seg>In the example in question, the complexity limit &lt;t4/&gt;cyclomatic &lt;t5/&gt;was lowered to &lt;t6/&gt;3 &lt;t7/&gt;so that Sonar created a &lt;t8/&gt;Issue &lt;t9/&gt;and visualization was possible this way, but it is calibrated with a limit of 10 for this measure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O &lt;t2/&gt;SonarQube&lt;t3/&gt; é uma das ferramentas mais usadas para aferição deste tipo de medição.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160934Z" creationid="admin" creationdate="20210305T160934Z">
+        <seg>The &lt;t2/&gt;SonarQube &lt;t3/&gt;is one of the most used tools for measuring this type of measurement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O algoritmo em questão tem uma &lt;t2/&gt;espécia&lt;t3/&gt; de caminho principal e um caminho alternativo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163921Z" creationid="admin" creationdate="20210305T163921Z">
+        <seg>The algorithm in question has a&lt;t2/&gt;species&lt;t3/&gt; of main path and an alternative path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O caminho A destaca em vermelho todas as instruções por onde o algoritmo passou.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163507Z" creationid="admin" creationdate="20210305T163507Z">
+        <seg>Path A highlights in red all instructions where the algorithm passed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O caminho B destaca em verde a instrução de preço &lt;t0/&gt;premium&lt;t1/&gt; por onde o caminho A não havia passado e de cinza onde passou de novo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163530Z" creationid="admin" creationdate="20210305T163530Z">
+        <seg>Path B highlights in green the price instruction &lt;t0/&gt;premium &lt;t1/&gt;where path A had not passed and gray where it passed again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O comportamento e os caminhos possíveis (agora &lt;t6/&gt;4&lt;t7/&gt;) são diferentes das duas anteriores, porém a complexidade &lt;t8/&gt;ciclomática&lt;t9/&gt; ainda é 4.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170044Z" creationid="admin" creationdate="20210305T170044Z">
+        <seg>The possible behavior and paths (now &lt;t6/&gt;4&lt;t7/&gt;) are different from the previous two, however the &lt;t8/&gt;cyclomatic &lt;t9/&gt;complexity is still 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O copinho adiciona R$1 ao preço enquanto a casquinha adiciona R$2.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161602Z" creationid="admin" creationdate="20210305T161602Z">
+        <seg>The cup adds R $ 1 to the price while the cone adds R $ 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O crescimento do número de casos de teste será exponencial e em breve será impossível manter uma cobertura alta para este algoritmo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163229Z" creationid="admin" creationdate="20210305T163229Z">
+        <seg>The growth in the number of test cases will be exponential and soon it will be impossible to maintain high coverage for this algorithm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O cálculo do exemplo dá um valor total de &lt;t0/&gt;5&lt;t1/&gt;, pois soma-se um ao método (linha 7), mais um pelo primeiro “IF” (linha 8), mais um pelo “&lt;t2/&gt;return&lt;t3/&gt;” que não é o último, mais um pelo “&lt;t4/&gt;while&lt;t5/&gt;” e pelo “&amp;&amp;” (linha 14).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161210Z" creationid="admin" creationdate="20210305T161210Z">
+        <seg>The calculation of the example gives a total value of &lt;t0/&gt;5 &lt;t1/&gt;, since one is added to the method (line 7), plus one by the first “IF” (line 8), plus one by “&lt;t2/&gt;return &lt;t3/&gt;”which is not the last, plus one for“ &lt;t4/&gt;while &lt;t5/&gt;”and“ &amp;&amp; ”(line 14).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O cálculo do preço do sorvete pode ser representado pelo seguinte código escrito em &lt;t0/&gt;java&lt;t1/&gt; (implementação 1):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161711Z" creationid="admin" creationdate="20210305T161711Z">
+        <seg>The calculation of the ice cream price can be represented by the following code written in &lt;t0/&gt;java &lt;t1/&gt;(implementation 1):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O método espera três parâmetros baseados na definição do preço do sorvete onde o cliente deve informar três coisas: tipo do sorvete (se é &lt;t0/&gt;premium&lt;t1/&gt; ou não), recipiente (se quer na casquinha ou não) e cobertura (uma ou mais).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162318Z" creationid="admin" creationdate="20210305T162318Z">
+        <seg>The method expects three parameters based on the price definition of the ice cream where the customer must inform three things: type of ice cream (whether it is &lt;t0/&gt;premium &lt;t1/&gt;or not), container (whether in the cone or not) and cover (one or more).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O sorvete pode ser vendido em copinho ou casquinha.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161551Z" creationid="admin" creationdate="20210305T161551Z">
+        <seg>Ice cream can be sold in a cup or cone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>O valor inicia em “1” para o método, função ou rotina (com ou sem retorno&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160250Z" creationid="admin" creationdate="20210305T160250Z">
+        <seg>The value starts at “1” for the method, function or routine (with or without return&lt;t0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Obs: &lt;t0/&gt;else&lt;t1/&gt;, default, &lt;t2/&gt;finally&lt;t3/&gt;, “&lt;t4/&gt;:” e o último &lt;t5/&gt;return&lt;t6/&gt; não incrementam a contagem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160748Z" creationid="admin" creationdate="20210305T160748Z">
+        <seg>Note: &lt;t0/&gt;else&lt;t1/&gt;, default, &lt;t2/&gt;finally&lt;t3/&gt;, “&lt;t4/&gt;:” and the last &lt;t5/&gt;return &lt;t6/&gt;do not increase the count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Observe agora, na Figura 7, que apenas dois casos de teste são suficientes para cobrir 100% das linhas de código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163648Z" creationid="admin" creationdate="20210305T163648Z">
+        <seg>Notice now, in Figure 7, that only two test cases are sufficient to cover 100% of the lines of code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Outra mudança nesta &lt;t10/&gt;implementação&lt;t11/&gt; é a necessidade de casos de teste para que todas as linhas sejam percorridas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170102Z" creationid="admin" creationdate="20210305T170102Z">
+        <seg>Another change in this &lt;t10/&gt;implementation &lt;t11/&gt;is the need for test cases so that all lines are covered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Para “programas simples” (rotinas, métodos, funções etc) com apenas uma saída, o cálculo de caminhos linearmente independentes é feito considerando-se que o algoritmo é fortemente conectado e uma linha de retorno deve ser feita até o início do algoritmo como no exemplo da Figura 3.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144922Z" creationid="admin" creationdate="20210305T144922Z">
+        <seg>For “simple programs” (routines, methods, functions, etc.) with only one output, the calculation of linearly independent paths is done considering that the algorithm is strongly connected and a return line must be made until the beginning of the algorithm as in example in Figure 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Pode-se dizer que a complexidade &lt;t8/&gt;ciclomática&lt;t9/&gt; é o &lt;t10/&gt;limite superior do número de cenários de teste necessários para cobrir 100% das linhas de código&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170650Z" creationid="admin" creationdate="20210305T170650Z">
+        <seg>It can be said that the &lt;t8/&gt;cyclomatic&lt;t9/&gt; complexity is the &lt;t10/&gt;upper limit on the number of test scenarios needed to cover 100% of the lines of code &lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Por outro lado, o valor de complexidade &lt;t6/&gt;ciclomática&lt;t7/&gt; parece ser uma meta bem mais razoável para elaboração de cenários de teste para um determinado código fonte.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170618Z" creationid="admin" creationdate="20210305T170618Z">
+        <seg>On the other hand, the complexity value &lt;t6/&gt;cyclomatic &lt;t7/&gt;seems to be a much more reasonable goal for the elaboration of test scenarios for a given source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Quando definido em termos de grafo de fluxo, um caminho independente deve incluir &lt;t2/&gt;pelo menos uma aresta &lt;t3/&gt;que não tenha sido atravessada antes de o caminho ser definido (Pressman&lt;t4/&gt;)[&lt;t5/&gt;2].</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143508Z" creationid="admin" creationdate="20210305T143508Z">
+        <seg>When defined in terms of flow graph, an independent path must include &lt;t2/&gt;at least one edge&lt;t3/&gt; that was not traversed before the path was defined (Pressman&lt;t4/&gt;) [&lt;t5/&gt;2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que de uma instrução simples parte apenas uma seta (aresta) enquanto de uma instrução de decisão partem duas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143828Z" creationid="admin" creationdate="20210305T143828Z">
+        <seg>Note that from a simple statement there is only one arrow (edge) while from a decision statement there are two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que ele indica com um “+1” os pontos que se enquadram em uma das condições de incremento apresentadas anteriormente na fórmula de cálculo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T160949Z" creationid="admin" creationdate="20210305T160949Z">
+        <seg>Note that it indicates with a "+1" the points that fall under one of the increment conditions presented previously in the calculation formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que o grafo também se altera.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165443Z" creationid="admin" creationdate="20210305T165443Z">
+        <seg>Notice that the graph also changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que o último caminho não passa em nenhuma instrução nova pela qual já não tenha sido passada antes em um dos três caminhos anteriores.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144149Z" creationid="admin" creationdate="20210305T144101Z">
+        <seg> Note that the last path does not pass any new instructions that have not been passed before in one of the previous three paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que o último “&lt;t6/&gt;return&lt;t7/&gt;” não conta.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161246Z" creationid="admin" creationdate="20210305T161246Z">
+        <seg>Note that the last “&lt;t6/&gt;return&lt;t7/&gt;” does not count.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Se colocarmos mais um “IF” neste algoritmo veremos que o número de caminhos possíveis vai saltar para &lt;t4/&gt;8&lt;t5/&gt; numa progressão exponencial.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144501Z" creationid="admin" creationdate="20210305T144501Z">
+        <seg>If we put one more “IF” in this algorithm we will see that the number of possible paths will jump to &lt;t4/&gt;8&lt;t5/&gt; in an exponential progression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Seguindo este raciocínio, o cálculo pode ser expandido para programas com mais de uma saída adicionando um ponto extra para cada saída.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145649Z" creationid="admin" creationdate="20210305T145649Z">
+        <seg>Following this reasoning, the calculation can be expanded to programs with more than one output by adding an extra point for each output.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>São necessários outros dois cenários de teste para que 100% das linhas consigam ser cobertas conforme pode ser vista na Figura 15.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T170351Z" creationid="admin" creationdate="20210305T170351Z">
+        <seg>Two other test scenarios are needed so that 100% of the lines can be covered as can be seen in Figure 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Temos oito combinações possíveis destes parâmetros gerando oito opções de compra do sorvete como pode ser visto na Figura 5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162350Z" creationid="admin" creationdate="20210305T162350Z">
+        <seg>We have eight possible combinations of these parameters, generating eight options for purchasing the ice cream as can be seen in Figure 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Uma forma de obter uma cobertura de testes de 100% seria fazer um caso de teste para cada caminho como mostra o código a seguir:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162451Z" creationid="admin" creationdate="20210305T162451Z">
+        <seg>One way to get 100% test coverage would be to make a test case for each path as shown in the following code:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Uma vez que se conheça a forma de cálculo baseado em palavras reservadas é possível calcular complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; em várias linguagens da mesma forma, basta identificar as palavras &lt;t2/&gt;reservadas que representam uma decisão ou saída precoce do programa&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161344Z" creationid="admin" creationdate="20210305T161344Z">
+        <seg>Once the form of calculation based on reserved words is known, it is possible to calculate &lt;t0/&gt;cyclomatic&lt;t1/&gt;complexity in several languages ​​in the same way, just identify the reserved &lt;t2/&gt;words that represent a decision or early exit from the &lt;t3/&gt;program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Veja, graficamente, a complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; &lt;t2/&gt;4&lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T165647Z" creationid="admin" creationdate="20210305T165647Z">
+        <seg>See, graphically, the &lt;t0/&gt;cyclomatic&lt;t1/&gt; &lt;t2/&gt;4&lt;t3/&gt; complexity:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(17, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(false, false, 1)); // Comum-Copinho-1Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162533Z" creationid="admin" creationdate="20210305T162533Z">
+        <seg>assertEquals&lt;t0/&gt; (17, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt; (false, false, 1)); // Common-Cup-1Cob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(18, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(false, &lt;t3/&gt;true&lt;t4/&gt;, 1)); // Comum-Casquinha-1Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162806Z" creationid="admin" creationdate="20210305T162741Z">
+        <seg>assertEquals&lt;t0/&gt; (18, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(false, &lt;t3/&gt;true&lt;t4/&gt;, 1)); // Common-Cup-1Cob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(18, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(false, false, 2)); // Comum-Copinho-2Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162638Z" creationid="admin" creationdate="20210305T162638Z">
+        <seg>assertEquals&lt;t0/&gt;(18, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(false, false, 2)); // Comum-Copinho-2Cob&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(19, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(false, &lt;t3/&gt;true&lt;t4/&gt;, 2)); // Comum-Casquinha-2Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162931Z" creationid="admin" creationdate="20210305T162931Z">
+        <seg>assertEquals&lt;t0/&gt; (19, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(false, &lt;t3/&gt;true&lt;t4/&gt;, 2)); // Common-Cup-2Co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(22, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(&lt;t3/&gt;true&lt;t4/&gt;, false, 1)); // Premium-Copinho-1Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163031Z" creationid="admin" creationdate="20210305T163031Z">
+        <seg>assertEquals&lt;t0/&gt; (22, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(&lt;t3/&gt;true&lt;t4/&gt;, false, 1)); // Common-Cup-1Co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(23, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(&lt;t3/&gt;true&lt;t4/&gt;, &lt;t5/&gt;true&lt;t6/&gt;, 1)); // Premium-Casquinha-1Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163126Z" creationid="admin" creationdate="20210305T163126Z">
+        <seg>assertEquals&lt;t0/&gt; (23, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(&lt;t3/&gt;true&lt;t4/&gt;, &lt;t5/&gt;true&lt;t6/&gt;, 1)); // Common-Cup-1Co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(23, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(&lt;t3/&gt;true&lt;t4/&gt;, false, 2)); // Premium-Copinho-2Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163056Z" creationid="admin" creationdate="20210305T163056Z">
+        <seg>assertEquals&lt;t0/&gt; (23, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(&lt;t3/&gt;true&lt;t4/&gt;, false, 2)); // Common-Cup-2Co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>assertEquals&lt;t0/&gt;(24, &lt;t1/&gt;sorveteria.precoSorvete&lt;t2/&gt;(&lt;t3/&gt;true&lt;t4/&gt;, &lt;t5/&gt;true&lt;t6/&gt;, 2)); // Premium-Casquinha-2Cob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T163148Z" creationid="admin" creationdate="20210305T163148Z">
+        <seg>assertEquals&lt;t0/&gt; (24, &lt;t1/&gt;sorbeteria.precoSorvete&lt;t2/&gt;&gt;(&lt;t3/&gt;true&lt;t4/&gt;, &lt;t5/&gt;true&lt;t6/&gt;, 2)); // Common-Cup-2Co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>public&lt;t0/&gt; &lt;t1/&gt;int&lt;t2/&gt; &lt;t3/&gt;precoSorvete&lt;t4/&gt;(&lt;t5/&gt;boolean&lt;t6/&gt; &lt;t7/&gt;premium&lt;t8/&gt;, &lt;t9/&gt;boolean&lt;t10/&gt; casquinha, &lt;t11/&gt;int&lt;t12/&gt; coberturas) {</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T161910Z" creationid="admin" creationdate="20210305T161910Z">
+        <seg>public &lt;t0/&gt;&lt;t1/&gt;int&lt;t2/&gt;&lt;t3/&gt; priceIce cream &lt;t4/&gt;(&lt;t5/&gt;boolean&lt;t6/&gt;&lt;t7/&gt; premium&lt;t8/&gt;,&lt;t9/&gt; boolean &lt;t10/&gt;cone,&lt;t11/&gt; int &lt;t12/&gt;coverings) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162009Z" creationid="admin" creationdate="20210305T162009Z">
+        <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>} &lt;t0/&gt;else&lt;t1/&gt; {</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T162004Z" creationid="admin" creationdate="20210305T162004Z">
+        <seg>} &lt;t0/&gt;else&lt;t1/&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>É realmente bem mais simples aplicar a fórmula “&lt;t2/&gt;π – s + 2&lt;t3/&gt;” e contar as palavras reservadas que representam uma decisão no código junto com os pontos de saída antecipada do programa.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T145945Z" creationid="admin" creationdate="20210305T145945Z">
+        <seg>It is actually much simpler to apply the formula “&lt;t2/&gt;π - s + 2&lt;t3/&gt;” and count the reserved words that represent a decision in the code together with the program's early exit points.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

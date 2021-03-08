@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="PT-BR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Caminho Linearmente Independente</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143217Z" creationid="admin" creationdate="20210305T143217Z">
+        <seg>Linearly Independent Path</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Caminho Linearmente Independente é qualquer caminho do programa que introduz pelo menos um novo conjunto de comandos de processamento ou uma &lt;t0/&gt;nova condição&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143320Z" creationid="admin" creationdate="20210305T143320Z">
+        <seg>Linearly Independent Path is any program path that introduces at least one new set of processing commands or a &lt;t0/&gt;new condition&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Complexidade &lt;t0/&gt;Ciclomática</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T142729Z" creationid="admin" creationdate="20210305T142729Z">
+        <seg>Cyclomatic &lt;t0/&gt;Complexity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Complexidade &lt;t0/&gt;ciclomática&lt;t1/&gt; é uma medida de software, elaborada em 1976 por Thomas &lt;t2/&gt;McCabe&lt;t3/&gt; &lt;t4/&gt;[1]&lt;t5/&gt; para medir a complexidade de um programa (classe, método, rotina etc).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T142838Z" creationid="admin" creationdate="20210305T142838Z">
+        <seg>Cyclomatic &lt;t0/&gt;complexity&lt;t1/&gt; is a software measure, developed in 1976 by Thomas &lt;t2/&gt;McCabe&lt;t3/&gt; &lt;t4/&gt;[1]&lt;t5/&gt; to measure the complexity of a program (class, method, routine, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Cálculo pelo Grafo de Fluxo de Controle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144624Z" creationid="admin" creationdate="20210305T144624Z">
+        <seg>Control Flow Graph Calculation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Em termos mais atuais, pode-se dizer que ela indica a dificuldade de se construir testes de unidade em um determinado código uma vez que ela mede a &lt;t6/&gt;quantidade de caminhos linearmente independentes&lt;t7/&gt; neste código.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143002Z" creationid="admin" creationdate="20210305T143002Z">
+        <seg>In more current terms, it can be said that it indicates the difficulty of building unit tests on a given code since it measures &lt;t6/&gt;the number of linearly independent paths&lt;t7/&gt; in this code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Em termos mais simples, ao escrever um teste de unidade para passar por todos os caminhos linearmente independentes você provavelmente terá coberto todas as linhas deste código, estabelecendo uma cobertura de 100%.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143547Z" creationid="admin" creationdate="20210305T143547Z">
+        <seg>In simpler terms, when writing a unit test to go through all linearly independent paths, you will probably have covered all the lines of this code, establishing 100% coverage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 1: Algoritmo de exemplo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143843Z" creationid="admin" creationdate="20210305T143843Z">
+        <seg>Example algorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Figura 2: Três caminhos independentes e um quarto repetindo instruções</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144200Z" creationid="admin" creationdate="20210305T144200Z">
+        <seg>Figure 2: Three independent paths and a fourth repeating instructions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Isso não é a mesma coisa que cobrir todas as possibilidades de execução (NPATH) e sim passar por todas as linhas ao menos uma vez.&lt;t0/&gt; &lt;t1/&gt;O exemplo da figura 1 mostra, graficamente, um algoritmo onde as letras representam uma instrução simples e os números representam um “IF” (decisão).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143620Z" creationid="admin" creationdate="20210305T143620Z">
+        <seg>This is not the same thing as covering all the possibilities of execution (NPATH), but going through all the lines at least once.&lt;t0/&gt; &lt;t1/&gt; The example in figure 1 shows, graphically, an algorithm where the letters represent a simple instruction and the numbers represent an “IF” (decision).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Medidas mais atuais como a &lt;t8/&gt;complexidade cognitiva&lt;t9/&gt; podem indicar melhor a dificuldade de leitura e entendimento de um código, mas a complexidade &lt;t10/&gt;ciclomática&lt;t11/&gt; ainda mantém forte relação com a &lt;t12/&gt;testabilidade&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143139Z" creationid="admin" creationdate="20210305T143139Z">
+        <seg>More current measures such as &lt;t8/&gt;cognitive complexity&lt;t9/&gt; may better indicate the difficulty of reading and understanding a code, but &lt;t10/&gt;cyclomatic&lt;t11/&gt; complexity still has a strong relationship with &lt;t12/&gt;testability&lt;t13/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Na Figura 2, o mesmo algoritmo é desmembrado em seus caminhos possíveis (NPATH) que são &lt;t0/&gt;4&lt;t1/&gt;, porém somente os três primeiros são linearmente independentes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144116Z" creationid="admin" creationdate="20210305T144028Z">
+        <seg>In Figure 2, the same algorithm is broken down into its possible paths (NPATH) which are &lt;t0/&gt;4&lt;t1/&gt;, but only the first three are linearly independent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No entanto, a complexidade &lt;t6/&gt;ciclomática&lt;t7/&gt; irá para &lt;t8/&gt;4&lt;t9/&gt;, pois será adicionada mais um nó (bolinha) e duas arestas (setas).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144552Z" creationid="admin" creationdate="20210305T144552Z">
+        <seg>However, the &lt;t6/&gt;cyclomatic&lt;t7/&gt; complexity will go to &lt;t8/&gt;4&lt;t9/&gt;, as another node (ball) and two edges (arrows) will be added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>No exemplo acima, apesar de haver &lt;t0/&gt;4&lt;t1/&gt; caminhos possíveis (NPATH), podemos dizer que a complexidade &lt;t2/&gt;ciclomática&lt;t3/&gt; do algoritmo representado graficamente é 3, ou seja, é igual ao número de caminhos linearmente independentes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144245Z" creationid="admin" creationdate="20210305T144245Z">
+        <seg>In the example above, although there are &lt;t0/&gt;4&lt;t1/&gt; possible paths (NPATH), we can say that the &lt;t2/&gt;cyclomatic&lt;t3/&gt; complexity of the graphically represented algorithm is 3, that is, it is equal to the number of linearly independent paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Quando definido em termos de grafo de fluxo, um caminho independente deve incluir &lt;t2/&gt;pelo menos uma aresta &lt;t3/&gt;que não tenha sido atravessada antes de o caminho ser definido (Pressman&lt;t4/&gt;)[&lt;t5/&gt;2].</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143508Z" creationid="admin" creationdate="20210305T143508Z">
+        <seg>When defined in terms of flow graph, an independent path must include &lt;t2/&gt;at least one edge&lt;t3/&gt; that was not traversed before the path was defined (Pressman&lt;t4/&gt;) [&lt;t5/&gt;2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que de uma instrução simples parte apenas uma seta (aresta) enquanto de uma instrução de decisão partem duas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T143828Z" creationid="admin" creationdate="20210305T143828Z">
+        <seg>Note that from a simple statement there is only one arrow (edge) while from a decision statement there are two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Repare que o último caminho não passa em nenhuma instrução nova pela qual já não tenha sido passada antes em um dos três caminhos anteriores.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144149Z" creationid="admin" creationdate="20210305T144101Z">
+        <seg> Note that the last path does not pass any new instructions that have not been passed before in one of the previous three paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Se colocarmos mais um “IF” neste algoritmo veremos que o número de caminhos possíveis vai saltar para &lt;t4/&gt;8&lt;t5/&gt; numa progressão exponencial.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T144501Z" creationid="admin" creationdate="20210305T144501Z">
+        <seg>If we put one more “IF” in this algorithm we will see that the number of possible paths will jump to &lt;t4/&gt;8&lt;t5/&gt; in an exponential progression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Testagem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130404Z" creationid="admin" creationdate="20210305T130404Z">
+        <seg>"Testagem"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Testando</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130356Z" creationid="admin" creationdate="20210305T130120Z">
+        <seg>Testing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Teste documento</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130344Z" creationid="admin" creationdate="20210305T123835Z">
+        <seg>Document Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>testandoando</seg>
+      </tuv>
+      <tuv lang="ES" changeid="admin" changedate="20210305T130415Z" creationid="admin" creationdate="20210305T130415Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
